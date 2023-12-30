@@ -29,30 +29,27 @@ export default function Collection() {
   return (
     <div>
       <h3 className="text-2xl text-white font-bold tracking-tight mb-4">
-        Çalma Listeleri
+        Playlist
       </h3>
 
       <div className="grid grid-cols-2 gap-x-4">
         <div className="h-[296px] bg-gradient-to-r from-gra3 to-gra4 rounded p-6 group relative">
           <div className="mt-20">
-            <span className="text-sm font-semibold">Emir Can İğrek</span>{" "}
-            <span className="opacity-70"> • Nevale </span>
-            <span className="text-sm font-semibold">Hadise</span>{" "}
-            <span className="opacity-70"> • Süpermen </span>
-            <span className="text-sm font-semibold">İbrahim Tatlıses</span>{" "}
-            <span className="opacity-70"> • Tamam Aşkım </span>
-            <span className="text-sm font-semibold">Emir Can İğrek</span>{" "}
-            <span className="opacity-70"> • Yangınlı Şiir </span>
-            <span className="text-sm font-semibold">Emir Can İğrek</span>{" "}
-            <span className="opacity-70"> • Nevale </span>
-            <span className="text-sm font-semibold">Emir Can İğrek</span>{" "}
-            <span className="opacity-70"> • Nevale </span>
-            <span className="text-sm font-semibold">Emir Can İğrek</span>{" "}
-            <span className="opacity-70"> • Nevale </span>
+            <span className="text-sm font-semibold">Arjit Singh</span>{" "}
+            <span className="opacity-70"> • Satranga </span>
+            <span className="text-sm font-semibold">Sonu Nigam</span>{" "}
+            <span className="opacity-70"> • Tum </span>
+            <span className="text-sm font-semibold">Eminem</span>{" "}
+            <span className="opacity-70"> • Mockingbird </span>
+            <span className="text-sm font-semibold">Charlie Puth</span>{" "}
+            <span className="opacity-70"> • See You Again </span>
+            <span className="text-sm font-semibold">Parmish Verma</span>{" "}
+            <span className="opacity-70"> • Paradox </span>
+            
           </div>
           <div>
-            <h3 className="text-3xl font-bold mt-6">Beğenilen Şarkılar</h3>
-            <p>204 beğenilen şarkılar</p>
+            <h3 className="text-3xl font-bold mt-6">Popular Songs</h3>
+            <p>204Popular Songsr</p>
           </div>
           <button className="w-12 h-12 bg-primary absolute right-4 bottom-4 transition-opacity rounded-full flex items-center shadow-2xl justify-center opacity-0 group-hover:opacity-100 group-active:opacity-100">
             <Icon name="play" />
