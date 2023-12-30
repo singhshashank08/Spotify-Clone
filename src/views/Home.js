@@ -37,8 +37,8 @@ export default function Home() {
 
    {
       id: 4,
-      title: 'Love You',
-      artist: 'Taylor Swift',
+      title: 'Duman',
+      artist: 'Jack Elloride',
       image: 'https://i.scdn.co/image/ab67616d00001e02d5a587c7de8efc3ba32bede7',
       src:'https://freesound.org/data/previews/617/617305_11861866-lq.mp3'
     },
