@@ -6,8 +6,8 @@ export default function Collection() {
   const items = [
     {
       id: 1,
-      title: "Haluk ve ErenYalcn",
-      artist: "ErenYalcn ile Haluk için derleme",
+      title: "Satranga",
+      artist: "Arjit Singh",
       image:
         "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-maroon-red-tr-tr.jpg",
     },
@@ -15,14 +15,14 @@ export default function Collection() {
     {
       id: 2,
       title: "Arkada Çalsın",
-      artist: "Fon müziğin bir play tuşu uzağında.",
+      artist: "Background music is just a play button away.",
       image: "https://i.scdn.co/image/ab67706f00000002dfe8de5f4bfe2c9a35422193",
     },
 
     {
       id: 3,
       title: "Arabada +200km/h",
-      artist: "Vites üçten beşe",
+      artist: "Gear three to five",
       image: "https://i.scdn.co/image/ab67706c0000da84471d7ab0ca5344e0a9deec7c",
     },
   ];
